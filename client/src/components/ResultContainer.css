@@ -1,0 +1,24 @@
+.resultName {
+    color: rgb(45, 47, 45);
+    font-size: 2rem;
+}
+
+.resultName:hover {
+    color: #61c454;
+    text-decoration: none;
+}
+
+.resultAddress {
+    color: rgb(81, 83, 81);
+    font-size: 1.5rem;
+    line-height: 0.9;
+}
+.resultCard {
+    min-height: 800px;
+}
+
+
+
+
+
+
